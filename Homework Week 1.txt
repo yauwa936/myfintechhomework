@@ -132,3 +132,5 @@ Blockchain technology, QR code and scan, cryptocurrency, Dapp.
 With decentralized blockchain technology, payment are more secure than centralised company. 
 Everyday user seems to be much more comfortable with internet memes. By using different marketing strategy will increase capacity and influence of our Dapps.
 With cryptocurreny, we can transfer global currency and different market in a speed of light. Our Dapps can also act as a new way of foreign exchange, providing all type of currency, trading, and all type of market in one single Dapps, helping millions to achieve their finacial freedom.
+
+I uploaded this by git commit.
